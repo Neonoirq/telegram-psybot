@@ -1,0 +1,5 @@
+from handlers import situation_callbacks
+from handlers import common_handlers
+from handlers import consultation_callbacks
+from handlers import menu_callbacks
+from handlers import signup_fsm_block
